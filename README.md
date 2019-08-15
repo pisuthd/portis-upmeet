@@ -1,5 +1,5 @@
 # Upmeet App
-> Meetup clone app using React Typescript and Portis Clone Wallet
+> Meetup clone app using React Typescript and Portis Web3 Wallet
 
 LIVE DEMO : https://thirsty-hoover-a1d69f.netlify.com/#/
 
