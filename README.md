@@ -22,8 +22,8 @@ Then please deploy the solidity contracts with your favourite tool, don't forget
 ## Features
 
 * Current Version
-    * Create an event without paying a feee
-    * User can participate the event without paying a fee
+    * Create an event
+    * RSVP for events without paying a fee
     * Sponsoring dapp fee
 * Future
     * Pay a deposit back when event is finished
