@@ -1,0 +1,3 @@
+export const CONTRACT_ADDRESS = "0x56808a8253078ea71c42bfb4dce600845a380355";
+export const NETWORK = "ropsten";
+export const HUB_ADDRESS = "0x1349584869A1C7b8dc8AE0e93D8c15F5BB3B4B87";
